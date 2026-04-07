@@ -1,0 +1,51 @@
+list
+
+🔹 Basic Level
+
+1. Sum of Elements
+👉 Take a list and find the sum of all elements
+Example: [1, 2, 3, 4] → Output: 10
+
+2. Find Maximum Element
+👉 Find the largest number in a list
+Example: [10, 5, 20, 8] → Output: 20
+
+3. Count Even Numbers
+👉 Count how many even numbers are in a list
+Example: [1, 2, 3, 4, 6] → Output: 3
+
+4. Reverse a List
+👉 Reverse the list without using built-in function
+Example: [1, 2, 3] → Output: [3, 2, 1]
+
+5. Remove Duplicates
+👉 Remove duplicate values from a list
+Example: [1, 2, 2, 3, 4, 4] → Output: [1, 2, 3, 4]
+
+🔹 Intermediate Level
+
+6. Find Second Largest Number
+👉 Find the second largest element in a list
+Example: [10, 20, 4, 45, 99] → Output: 45
+
+7. Merge Two Lists
+👉 Combine two lists into one
+Example: [1, 2] + [3, 4] → Output: [1, 2, 3, 4]
+
+8. List Rotation
+👉 Rotate list to the right by 1
+Example: [1, 2, 3, 4] → Output: [4, 1, 2, 3]
+
+9. Find Common Elements
+👉 Find common elements in two lists
+Example:
+[1, 2, 3] and [2, 3, 4] → Output: [2, 3]
+
+10. Frequency Count
+👉 Count frequency of each element in list
+Example: [1, 2, 2, 3, 1] → Output: {1:2, 2:2, 3:1}
+
+🚀 Bonus (Interview Level)
+
+11. Flatten a Nested List
+👉 Convert [[1,2],[3,4],[5]] → [1,2,3,4,5]

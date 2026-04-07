@@ -1,0 +1,69 @@
+🟢 Basic Level
+
+1. Even or Odd
+👉 Take a number as input and check if it is even or odd.
+
+2. Positive, Negative, or Zero
+👉 Input a number and print:
+
+"Positive"
+"Negative"
+"Zero"
+
+3. Voting Eligibility
+👉 Ask user age and check if they can vote (age ≥ 18).
+
+🟡 Intermediate Level
+
+4. Largest of Two Numbers
+👉 Input two numbers and print the larger one.
+
+5. Largest of Three Numbers
+👉 Input three numbers and find the largest using if-elif-else.
+
+6. Grade Calculator
+👉 Input marks and print grade:
+
+90+ → A
+75–89 → B
+50–74 → C
+Below 50 → Fail
+
+7. Leap Year Checker
+👉 Check if a year is a leap year.
+
+💡 Hint:
+
+Divisible by 4
+Not divisible by 100 OR divisible by 400
+🔴 Advanced Level
+
+8. Discount Calculator
+👉 Based on purchase amount:
+
+< 1000 → 5% discount
+1000–5000 → 10%
+
+5000 → 15%
+👉 Print final price
+
+9. Simple Calculator
+👉 Take two numbers + operator (+, -, *, /) and perform operation using if-elif.
+
+10. Triangle Type Checker
+👉 Input 3 sides and check:
+
+Equilateral
+Isosceles
+Scalene
+🚀 Bonus (Very Advanced)
+
+11. ATM Machine Simulation
+👉 Ask:
+
+Balance
+Withdrawal amount
+👉 Conditions:
+If amount > balance → "Insufficient balance"
+If amount <= 0 → "Invalid amount"
+Else → Deduct and show remaining balance
